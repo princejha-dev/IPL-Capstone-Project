@@ -106,9 +106,15 @@ This analysis aims to:
 ```
 IPL-Capstone-Project/
 ├── IPL_Capstone_Project.ipynb    # Main analysis notebook
-├── IPL.csv                        # Dataset
-└── README.md                      # Documentation 
+├── IPL.csv                       # Dataset
+├── README.md                     # Documentation
+└── output_images/                # Folder to store generated plots & visuals
+    ├── most_match_win.png
+    ├── top10_mom.png
+    ├── toss_decison.png
+    └── venue_analysis.png
 ```
+
 
 ## Future Enhancements
 - Implement predictive modeling for match outcomes
@@ -118,7 +124,7 @@ IPL-Capstone-Project/
 - Sentiment analysis of player comments and media coverage
 
 ## Author
-Data Science Capstone Project - IPL 2022 Analysis
+[Data Science Capstone Project - IPL 2022 Analysis](https://github.com/princejha-dev)
 
 ## Status
 ✅ Completed
